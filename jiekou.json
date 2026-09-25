@@ -1,44 +1,44 @@
 {
-    "urls": [
-        {
-            "url": "http://www.饭太硬.cc/tv",
-            "name": "🚀饭太硬线路"
-        },
-        {
-            "url": "http://肥猫.net/tv/",
-            "name": "🚀肥猫"
-        },
-        {
-            "url": "https://8815.kstore.vip/tvbox/wmz",
-            "name": "🚀网络"
-        },
-        {
-            "url": "https://9280.kstore.vip/aiwex.json",
-            "name": "🚀王小二线路"
-        }
-         {
-            "url": "https://gh-proxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json",
-            "name": "🚀南风"
-        }
-        {
-            "url": "www.y456y.com",
-            "name": "🚀摸鱼"
-        }
-        {
-            "url": "http://hb.小虎斑.site:25252/仅供测试/",
-            "name": "🚀小虎斑"
-        }
-         {
-            "url": "http://www.英格里希嗷呜.top/tv",
-            "name": "🚀嗷呜的小屋"
-        }
-         {
-            "url": "https://www.252035.xyz/z/FongMi.json",
-            "name": "🚀真心"
-        }
-          {
-            "url": "https://www.252035.xyz/p/jsm.json",
-            "name": "🚀PG"
-        }
-    ]
+  "urls": [
+    {
+      "url": "http://www.饭太硬.cc/tv",
+      "name": "🚀饭太硬线路"
+    },
+    {
+      "url": "http://肥猫.net/tv/",
+      "name": "🚀肥猫"
+    },
+    {
+      "url": "https://8815.kstore.vip/tvbox/wmz",
+      "name": "🚀网络"
+    },
+    {
+      "url": "https://9280.kstore.vip/aiwex.json",
+      "name": "🚀王小二线路"
+    },
+    {
+      "url": "https://gh-proxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json",
+      "name": "🚀南风"
+    },
+    {
+      "url": "https://www.y456y.com",
+      "name": "🚀摸鱼"
+    },
+    {
+      "url": "http://hb.小虎斑.site:25252/仅供测试/",
+      "name": "🚀小虎斑"
+    },
+    {
+      "url": "http://www.英格里希嗷呜.top/tv",
+      "name": "🚀嗷呜的小屋"
+    },
+    {
+      "url": "https://www.252035.xyz/z/FongMi.json",
+      "name": "🚀真心"
+    },
+    {
+      "url": "https://www.252035.xyz/p/jsm.json",
+      "name": "🚀PG"
+    }
+  ]
 }
