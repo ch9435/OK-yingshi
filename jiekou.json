@@ -1,7 +1,7 @@
 {
     "urls": [
         {
-            "url": "https://fan.ydsf.xyz/tv/",
+            "url": "http://www.饭太硬.cc/tv",
             "name": "🚀饭太硬线路"
         },
         {
@@ -15,6 +15,10 @@
         {
             "url": "https://9280.kstore.vip/aiwex.json",
             "name": "🚀王小二线路"
+        }
+         {
+            "url": "https://gh-proxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json",
+            "name": "🚀南风"
         }
     ]
 }
